@@ -1,6 +1,6 @@
 {
-  "name": "creditbitcore-wallet-service",
-  "description": "A service for Mutisig HD creditbit Wallets",
+  "name": "MoneyBag-wallet-service",
+  "description": "A service for Mutisig HD MoneyBagCoin Wallets",
   "author": "Creditbit",
   "version": "0.1.1",
   "keywords": [
@@ -11,16 +11,16 @@
     "creditbitcore"
   ],
   "repository": {
-    "url": "git@github.com:creditbit/creditbitcore-wallet-service.git",
+    "url": "git@github.com:MoneyBagCoin/creditbitcore-wallet-service.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/creditbit/creditbitcore-wallet-service/issues"
+    "url": "https://github.com/MoneyBagCoin/creditbitcore-wallet-service/issues"
   },
   "dependencies": {
     "async": "^0.9.0",
-    "bitcore": "git://github.com/creditbit/creditbitcore-lib.git",
-    "bitcore-wallet-utils": "git://github.com/creditbit/creditbitcore-wallet-utils.git",
+    "bitcore": "git://github.com/MoneyBagCoin/creditbitcore-lib.git",
+    "bitcore-wallet-utils": "git://github.com/MoneyBagCoin/creditbitcore-wallet-utils.git",
     "body-parser": "^1.11.0",
     "coveralls": "^2.11.2",
     "email-validator": "^1.0.1",

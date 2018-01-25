@@ -38,7 +38,7 @@ var config = {
   blockchainExplorerOpts: {
     livenet: {
       provider: 'insight',
-      url: 'http://localhost:3030',
+      url: 'http://wallet.moneybagcoin.com:8080',
 	  //url: 'https://creditsight.creditbit.org',
     },
     testnet: {
